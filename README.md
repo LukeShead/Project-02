@@ -58,10 +58,12 @@ return 0;
 
 # The IDE and implementation
 
-### The IDE i used was repl.it,
+### The IDE I used was repl.it
 
  This was a very good IDE to use as it allowed me to run my code easily and let me debug my code easier through the intergrated
  debugger that it provides, with this I was able to solve problems much more effieciently than if I was using a platform like notepad. 
- With this, I was able to create the game much easier than normal.
+ With this, I was able to create the game much easier than normal. Being able to have a IDE that knew the code I was using and offered syntax highlighting, this made things a lot easier to learn the code and allowing myself to have a neater code so it was easier to read as well as having a better understanding at what parts of the code did and what was connected to them.
  
+ ### Coding standards I use
  
+ My coding standards have not changed from what they where from the first project, I use tabs to help organize my code to make sure that it is easy to read. I place any of the code that is associated with a function further out than the function, this is because as I read left to right, I can look at the functions clearly then look at what they do after I have found the function that I was looking for.
