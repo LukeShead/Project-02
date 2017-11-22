@@ -1,5 +1,9 @@
 # Project-02
 
+## About the project
+
+Project 02 was to build a higher or lower card game similar to the old game show, the user is shown a card then asked to pick whether the next will be of a higher or lower value than the card. After choosing the card will be shown to the user, with this the card is checked to see whether it is higher or lower and either give points if they are correct or give a game over if it's lower. 
+
 ## The code that I created the game for is below:
 
 #include <ctime> // allows the use of time to be implemented
