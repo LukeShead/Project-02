@@ -10,7 +10,7 @@ When planning the project I took into consideration the scope of the project and
 
 With this project, I made note of all points within it, this includes what the project brief said, with just asking to create a higher or lower game and saying nothing else, I checked about the quality standards of the project, since it was a broad project, it meant that quality could be increased at certain points but it would not be any different from having the simple project standards in the project being complete, with this is mind I cut down on time by having the task be done to the requirements and not risk nto completing it trying to overcomplicate things.
 
-![Flow](https://raw.githubusercontent.com/LukeShead/Project-02/master/Capture.PNG)
+![Flow](https://github.com/LukeShead/Project-02/blob/master/Flow%20proj2.PNG)
 
 ## The code that I created the game for is below:
 
