@@ -90,4 +90,4 @@ As I said before my coding standard helped me debug more effectively and become 
 
 However, there werer occasions to which the computer did not understand the code because of reasons that were further along with the code with them either not being written right or having functions that overlapped, this was solved by seeing what the code did, then looking at what was associated with it. By successfully debugging my code I was able to complete my assignment as the debugger would help my development by telling me what was wrong with my code.
 
-I would run the program after a few lines of code or a function was completed, this would be to help me understand what part of my code was working and what part was not. For the parts that wasn't 
+I would run the program after a few lines of code or a function was completed, this would be to help me understand what part of my code was working and what part was not. For the parts that wasn't working the debugger would help me locate the small errors so that they would not overlapp with others and end up making the code difficult to debug. This is why the debugger was very useful for my project.
