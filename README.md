@@ -12,6 +12,8 @@ With this project, I made note of all points within it, this includes what the p
 
 This program is an event driven program, this is because it waits for an input before it runs the rest of the code, without anything being typed by the user, the program does not run, this makes it an event driven program. In order for it to be a procedural program it would need to run on its own and not require any other inputs. There are no objects that can be interacted with within this program and as of such it cannot be known as an object orientated program. 
 
+When looking at other versions of higher or lower card games, the source code of the programs were heavily based around bein event-driven, mine was the same as this when completed however the code of these more proffesional programs were much more complicated having the code constantly running numbers and having the program allow the user to have the same number and not just higher and lower. The code was neat and had a simplistic standard, this was very helpful to decide how my program would run.
+
 ![Flow](https://github.com/LukeShead/Project-02/blob/master/Flow%20proj2.PNG)
 
 ## The code that I created the game for is below:
