@@ -10,6 +10,8 @@ When planning the project I took into consideration the scope of the project and
 
 With this project, I made note of all points within it, this includes what the project brief said, with just asking to create a higher or lower game and saying nothing else, I checked about the quality standards of the project, since it was a broad project, it meant that quality could be increased at certain points but it would not be any different from having the simple project standards in the project being complete, with this is mind I cut down on time by having the task be done to the requirements and not risk nto completing it trying to overcomplicate things.
 
+This program is an event driven program, this is because it waits for an input before it runs the rest of the code, without anything being typed by the user, the program does not run, this makes it an event driven program. In order for it to be a procedural program it would need to run on its own and not require any other inputs. There are no objects that can be interacted with within this program and as of such it cannot be known as an object orientated program. 
+
 ![Flow](https://github.com/LukeShead/Project-02/blob/master/Flow%20proj2.PNG)
 
 ## The code that I created the game for is below:
