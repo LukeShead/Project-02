@@ -73,7 +73,7 @@ return 0;
 
 }
 
-``` cpp
+```
 
 # The IDE and implementation.
 
