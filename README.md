@@ -19,6 +19,7 @@ The project was done in C++, this is because the language has an easier method o
 ![Flow](https://github.com/LukeShead/Project-02/blob/master/Flow%20proj2.PNG)
 
 ## The code that I created the game for is below:
+``` cpp
 
 #include <ctime> // allows the use of time to be implemented
 #include <cstdlib> // opens a library
@@ -72,7 +73,7 @@ return 0;
 
 }
 
-
+``` cpp
 
 # The IDE and implementation.
 
