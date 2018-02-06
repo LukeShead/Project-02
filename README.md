@@ -16,6 +16,9 @@ When looking at other versions of higher or lower card games, the source code of
 
 The project was done in C++, this is because the language has an easier method of implementing the right algorithm for my project, for this project I needed it to be event-driven, this meant having the code only continue once there was input, because of this it means that the coding language I used needed to be suitable, and for this C++ was the right one. The language allowed me to add the correct functions easily as the type of algorithm that I wanted to implement and the language style work well together in order to make it easier for me to create. This is why I used C++.
 
+
+
+# FlowChart
 ![Flow](https://github.com/LukeShead/Project-02/blob/master/Flow%20proj2.PNG)
 
 ## The code that I created the game for is below:
