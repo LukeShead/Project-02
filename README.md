@@ -16,7 +16,9 @@ When looking at other versions of higher or lower card games, the source code of
 
 The project was done in C++, this is because the language has an easier method of implementing the right algorithm for my project, for this project I needed it to be event-driven, this meant having the code only continue once there was input, because of this it means that the coding language I used needed to be suitable, and for this C++ was the right one. The language allowed me to add the correct functions easily as the type of algorithm that I wanted to implement and the language style work well together in order to make it easier for me to create. This is why I used C++.
 
+## Process I followed to build the application
 
+In order to build this application, the process had to follow a certain development cycle, with this project I used an agile development plan, this was done by making constant prototypes, with this I was able to constantly improve my project. When building an application, it is through certain steps, the planning is the most important step and shows how the app will work along with how it will be built. The development stage is where it is all created and this is where my development cycle was used however it can be any form of cycle. After this it is the testing and evaluation stage, this is the testing stage and looking at the application as a whole whilst evaluating the project and project performance. This is the stage I evaluated all of my work on and how the project went.
 
 # FlowChart
 ![Flow](https://github.com/LukeShead/Project-02/blob/master/Flow%20proj2.PNG)
