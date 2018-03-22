@@ -92,9 +92,11 @@ With this, I was able to create the game much easier than normal. Being able to 
  
  ### Coding standards I use.
  
+#### Ease of reading- tabs for spacing, line positioning.
 My coding standards have not changed from what they where from the first project, I use tabs to help organize my code to make sure that it is easy to read. I place any of the code that is associated with a function further out than the function, this is because as I read left to right, I can look at the functions clearly then look at what they do after I have found the function that I was looking for. This helped me keep track of what functions did what and what lines belonged to, this allowed me to work faster when developing and testing the code, it also made debugging the code much easier as I was easily able to show what lines had the errors and the functions they belonged to, having this allowed me to only look at what was wrong and not the entire code.
 
-When using variables I keep all of the names simple and easily identifiable, for example a variable for a card generator will be called "CGEN" so that I will be able to look at the variable and see the simplified version of the function name. This allows me and other people to be able to look at my code and see exactly what variable can go to what  
+#### Variable Names
+When using variables I keep all of the names simple and easily identifiable, for example a variable for a card generator will be called "CGEN" so that I will be able to look at the variable and see the simplified version of the function name. This allows me and other people to be able to look at my code and see exactly what variable links too and what it does, this will be done with all variables as it also helps make the code look neater as it allows the code to be shorter and when defining variable names, it can be done with the lines being smaller so that the functions can be in focus instead of the variable names.
 
 
 ### Debugging.
@@ -113,10 +115,5 @@ I would run the program after a few lines of code or a function was completed, t
 When creating a program, many people use normal text editors in order to allow them to have complete control over what they build, however this method of programming is not very useful for debugging, this is because the bugs in a system are usually not clearly highlighted when testing the code. This can make debugging the programming much more difficult, to remove this problem, people use IDE's to help them design and create programs as well as run and test them, this is because of the features that it can provide, for example many IDE's provide a syntax colouring which allows for easier reading as the user can see what parts of code are functions or variables. 
 
 IDE's will use it's own debugging devices in order to help developers test their code, this is usually done within the IDE by running the code within it, the IDE will usually have a section devoted to showing the parts of the code that it cannot understand. IDE's will not show what's wrong with the code but what it cannot understand, this means that parts of the code that have the bug within them can be found easier as the part it cannot understand will be linked to the bug somewhere in the code. For example if a variable name is mispelt it will say that it cannot understand what the mispelt variable is, this means the developer will be able to know that the variable is the problem and therefore can debug it easier. 
-
-
-
-
-
 
 
