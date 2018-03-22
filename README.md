@@ -106,4 +106,17 @@ The process of debugging is all about testing, the testing of a program can happ
 
 However, there were occasions to which the computer did not understand the code because of reasons that were further along with the code with them either not being written right or having functions that overlapped, this was solved by seeing what the code did, then looking at what was associated with it. By successfully debugging my code I was able to complete my assignment as the debugger would help my development by telling me what was wrong with my code.
 
-I would run the program after a few lines of code or a function was completed, this would be to help me understand what part of my code was working and what part was not. For the parts that wasn't working the debugger would help me locate the small errors so that they would not overlapp with others and end up making the code difficult to debug. This is why the debugger was very useful for my project.
+I would run the program after a few lines of code or a function was completed, this would be to help me understand what part of my code was working and what part was not. For the parts that wasn't working the debugger would help me locate the small errors so that they would not overlapp with others and end up making the code difficult to debug. This is why the debugger was very useful for my project
+
+### IDE's and how they help with debugging.
+
+When creating a program, many people use normal text editors in order to allow them to have complete control over what they build, however this method of programming is not very useful for debugging, this is because the bugs in a system are usually not clearly highlighted when testing the code. This can make debugging the programming much more difficult, to remove this problem, people use IDE's to help them design and create programs as well as run and test them, this is because of the features that it can provide, for example many IDE's provide a syntax colouring which allows for easier reading as the user can see what parts of code are functions or variables. 
+
+IDE's will use it's own debugging devices in order to help developers test their code, this is usually done within the IDE by running the code within it, the IDE will usually have a section devoted to showing the parts of the code that it cannot understand. IDE's will not show what's wrong with the code but what it cannot understand, this means that parts of the code that have the bug within them can be found easier as the part it cannot understand will be linked to the bug somewhere in the code. For example if a variable name is mispelt it will say that it cannot understand what the mispelt variable is, this means the developer will be able to know that the variable is the problem and therefore can debug it easier. 
+
+
+
+
+
+
+
