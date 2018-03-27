@@ -88,6 +88,7 @@ This was a very good IDE to use as it allowed me to run my code easily and let m
 debugger that it provides, with this I was able to solve problems much more effieciently than if I was using a platform like notepad. 
 With this, I was able to create the game much easier than normal. Being able to have a IDE that knew the code I was using and offered syntax highlighting, this made things a lot easier to learn the code and allowing myself to have a neater code so it was easier to read as well as having a better understanding at what parts of the code did and what was connected to them.
 
+#### Screenshot of IDE
 ![ide](https://github.com/LukeShead/Project-02/blob/master/IDE.PNG)
  
  ### Coding standards I use.
