@@ -117,4 +117,12 @@ When creating a program, many people use normal text editors in order to allow t
 
 IDE's will use it's own debugging devices in order to help developers test their code, this is usually done within the IDE by running the code within it, the IDE will usually have a section devoted to showing the parts of the code that it cannot understand. IDE's will not show what's wrong with the code but what it cannot understand, this means that parts of the code that have the bug within them can be found easier as the part it cannot understand will be linked to the bug somewhere in the code. For example if a variable name is mispelt it will say that it cannot understand what the mispelt variable is, this means the developer will be able to know that the variable is the problem and therefore can debug it easier. 
 
+IDE's provide a multitude of tools and techniques that can help with debugging when building and testing code, this can come from the IDE giving help to the user write the code or through the testing. One example of a feature that helps is the ability to use the three different techniques, one of them is step-over, this is the action of an IDE to not run a certain function or subroutine but skip it in order to run another subroutine, this can be used to help test different parts of code without testing all of it.
+
+
+
+
+
+
+
 
